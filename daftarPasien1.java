@@ -11,7 +11,7 @@ package Pertemuan_2.sem3;
 public class daftarPasien1 {
 
     public static void main(String[] args) {
-        Pasien1 P1 = new Pasien1 ("dwek", 45,"Melati","Kritis");
+        Pasien1 P1 = new Pasien1 ("SUMANTO", 45,"M34","Kritis");
         P1.daftarPasien();
     
     }
